@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Emisora 1",
+    "logo": "https://via.placeholder.com/300x150.png?text=Emisora+1",
+    "url": "https://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/",
+    "tipo": "audio"
+  },
+  {
+    "nombre": "Emisora 2",
+    "logo": "https://via.placeholder.com/300x150.png?text=Emisora+2",
+    "url": "https://your-video-stream-url2/stream.m3u8",
+    "tipo": "video"
+  },
+  {
+    "nombre": "Emisora 3",
+    "logo": "https://via.placeholder.com/300x150.png?text=Emisora+3",
+    "url": "https://your-audio-stream-url3/stream.mp3",
+    "tipo": "audio"
+  }
+]
