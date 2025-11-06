@@ -1,17 +1,53 @@
 [
   {
-    "nombre": "Radio Córdoba",
-    "logo": "https://tuservidor.com/logos/cordoba.png",
-    "url": "https://tuservidor.com/stream/cordoba.mp3",
+    "nombre": "Radio Nacional Argentina",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Radio_Nacional_Argentina_logo.png",
+    "url": "https://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39",
+    "tipo": "audio",
+    "provincia": "Buenos Aires",
+    "ciudad": "CABA",
+    "categoria": "Nacional"
+  },
+  {
+    "nombre": "Nacional Rock",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Nacional_Rock_logo.png",
+    "url": "https://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad22",
+    "tipo": "audio",
+    "provincia": "Buenos Aires",
+    "ciudad": "CABA",
+    "categoria": "Nacional"
+  },
+  {
+    "nombre": "Cadena 3 Argentina",
+    "logo": "https://cdn-profiles.tunein.com/s12726/images/logoq.png",
+    "url": "https://26383.live.streamtheworld.com/CADENA3AAC.aac",
     "tipo": "audio",
     "provincia": "Córdoba",
     "ciudad": "Córdoba Capital",
     "categoria": "Provincial"
   },
   {
-    "nombre": "Radio Nacional Argentina",
-    "logo": "https://tuservidor.com/logos/nacional.png",
-    "url": "https://tuservidor.com/stream/nacional.m3u8",
+    "nombre": "Radio Universidad Córdoba",
+    "logo": "https://www.unc.edu.ar/sites/default/files/styles/og/public/2018-05/radio_universidad_logo.png",
+    "url": "https://vivo.unc.edu.ar:8443/RadioUniversidad",
+    "tipo": "audio",
+    "provincia": "Córdoba",
+    "ciudad": "Córdoba Capital",
+    "categoria": "Provincial"
+  },
+  {
+    "nombre": "Radio Mitre Mendoza",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Radio_Mitre_logo.svg",
+    "url": "https://radiomitre-mza.leanstream.co/radiomitre-mza-mp3",
+    "tipo": "audio",
+    "provincia": "Mendoza",
+    "ciudad": "Mendoza",
+    "categoria": "Provincial"
+  },
+  {
+    "nombre": "Telefe Noticias",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Telefe_noticias_logo.png",
+    "url": "https://d31ixfmpd8v8p4.cloudfront.net/out/v1/31f1c3724bfc47888ffb5c92a5d0a0e5/index.m3u8",
     "tipo": "video",
     "provincia": "Buenos Aires",
     "ciudad": "CABA",
